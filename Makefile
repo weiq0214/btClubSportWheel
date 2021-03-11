@@ -1,7 +1,7 @@
 TARGETPATH = firmware
 
 # The teensy version to use, 30, 31, or LC
-TEENSY = LC
+TEENSY = 31
 
 # Device type: USB (wired) or BT (bluetooth)
 TYPE = USB
